@@ -5,13 +5,10 @@
 
 	<groupId>com.saltygeek</groupId>
 	<artifactId>geospacial</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1</version>
 
 	<name>geospacial</name>
-	<description><![CDATA[
-        <p>A simple <b>geospatial</b> library for Java.</p>
-        <p>Based on algorithms from <a href='http://www.movable-type.co.uk/scripts/latlong.html'>Distance between pair of latitude/longitude points</a>.</p>
-    ]]></description>
+	<description>A simple *geospatial* library for Java.  Based on algorithms from [Distance between pair of latitude/longitude points](http://www.movable-type.co.uk/scripts/latlong.html)</description>
 	<url>https://saltygeek.com</url>
 	<distributionManagement>
 	    <repository>
@@ -54,7 +51,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
 	<reporting>
 		<plugins>
 			<plugin>
