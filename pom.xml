@@ -13,6 +13,13 @@
         <p>Based on algorithms from <a href='http://www.movable-type.co.uk/scripts/latlong.html'>Distance between pair of latitude/longitude points</a>.</p>
     ]]></description>
 	<url>https://saltygeek.com</url>
+	<distributionManagement>
+	    <repository>
+	        <id>github</id>
+    	    <name>GitHub Packages</name>
+        	<url>https://maven.pkg.github.com/gcdinsmore/geospacial</url>
+    	</repository>
+	</distributionManagement>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
