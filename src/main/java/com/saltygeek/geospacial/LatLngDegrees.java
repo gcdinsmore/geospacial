@@ -3,6 +3,23 @@ package com.saltygeek.geospacial;
 import static java.lang.Math.toDegrees;
 import static java.lang.Math.toRadians;
 
+/**
+ * <p>
+ * Geospacial library. Based on algorithms from
+ * <a href='http://www.movable-type.co.uk/scripts/latlong.html'>this website</a>
+ * </p>
+ * 
+ * <p>
+ * Copyright (c) 2026 Glen Dinsmore
+ * </p>
+ * 
+ * <p>
+ * This code is licensed under the MIT License.
+ * </p>
+ * 
+ * @author Glen Dinsmore
+ *
+ */
 public class LatLngDegrees extends LatLngRadians implements LatLng {
 
 	/** Bearing North in radians */

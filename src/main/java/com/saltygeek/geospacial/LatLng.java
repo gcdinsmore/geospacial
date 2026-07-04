@@ -13,6 +13,14 @@ package com.saltygeek.geospacial;
  * efficient. Degrees will be converted to radians for storing.
  * </p>
  * 
+ * <p>
+ * Copyright (c) 2026 Glen Dinsmore
+ * </p>
+ * 
+ * <p>
+ * This code is licensed under the MIT License.
+ * </p>
+ * 
  * @author Glen Dinsmore
  *
  */

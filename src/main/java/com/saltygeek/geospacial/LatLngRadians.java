@@ -21,6 +21,14 @@ import static java.lang.Math.PI;
  * All angles, including latitude and longitude, are stored in radians.
  * </p>
  * 
+ * <p>
+ * Copyright (c) 2026 Glen Dinsmore
+ * </p>
+ * 
+ * <p>
+ * This code is licensed under the MIT License.
+ * </p>
+ * 
  * @author Glen Dinsmore
  *
  */
